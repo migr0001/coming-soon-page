@@ -1,0 +1,19 @@
+html {
+  background-color: #55678B;
+  color: #fff;
+}
+
+.coming-soon {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.social-media {
+  opacity: 0.5;
+}
+
+.social-media:hover {
+  opacity: 1;
+}
